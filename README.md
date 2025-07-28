@@ -16,3 +16,5 @@ You will also need to [install Maven](https://maven.apache.org/install.html)
 cd e2e-bdd-testing/
 mvn test
 ```
+### Screenshot
+![screenshot](images/screenshot.png)
